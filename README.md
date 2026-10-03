@@ -1,49 +1,4 @@
 ````markdown
-<div align="center">
-
-<a href="https://capsule-render.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=SHIVAM%20UPADHAYA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Engineering%20%7C%20AI%2FML%20Explorer&descAlignY=60&descSize=17" width="100%"/>
-</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Software+Engineering+Enthusiast;Data+Structures+%26+Algorithms;Java+%7C+C+%7C+PHP+%7C+MySQL;Google+Skills+Labs+%26+Badges;AI%2FML+%26+Cloud+Explorer;Building+%7C+Learning+%7C+Solving" alt="Typing SVG"/>
-
-<br/>
-
-<a href="https://www.methodist.edu.in/">
-<img src="https://img.shields.io/badge/B.E.-Computer%20Science-4F46E5?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-</a>
-<a href="https://www.methodist.edu.in/">
-<img src="https://img.shields.io/badge/CGPA-8.10%2F10-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
-</a>
-<a href="https://www.google.com/maps/search/?api=1&query=Hyderabad%2C%20Telangana%2C%20India">
-<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Shivam-coder01">
-<img src="https://img.shields.io/badge/Portfolio-GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/shivam-upadhyay-441504359">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:shivamup@2007gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Shivam-coder01">
-<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Shivam-coder01&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Shivam-coder01?style=for-the-badge&color=4F46E5&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Shivam-coder01?style=for-the-badge&color=7C3AED&label=STARS"/>
-
-</div>
-
----
-
 ## About Me
 
 I am **Shivam Upadhaya**, a Computer Science engineering student at **Methodist College of Engineering and Technology, Hyderabad**, focused on developing strong foundations in software engineering, problem solving, and algorithmic thinking.
